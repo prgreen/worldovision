@@ -17,3 +17,7 @@ If you want to run the project yourself, don't forget to
     npm install
 
 You also need to fill in the relevant Twitter info in app.js.
+
+## License
+
+This content is released under the (http://opensource.org/licenses/MIT) MIT License.
